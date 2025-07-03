@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/KCLP1995/my-github-actions-project#readme",
   "dependencies": {
+    "chai": "^5.2.0",
     "express": "^5.1.0"
   },
   "description": ""
