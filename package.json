@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "directories": {
-    "test": "test"
+    "test": "mocha"
   },
   "scripts": {
     "test": "mocha"
@@ -22,8 +22,8 @@
     "mocha": "^10.8.2"
   },
   "homepage": "https://github.com/KCLP1995/my-github-actions-project#readme",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "description": ""
 }
