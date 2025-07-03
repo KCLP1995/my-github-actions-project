@@ -16,10 +16,10 @@
     "url": "https://github.com/KCLP1995/my-github-actions-project/issues"
   },
   "homepage": "https://github.com/KCLP1995/my-github-actions-project#readme",
-  "description": "",
   "dependencies": {
     "chai": "^5.2.0",
     "express": "^5.1.0",
     "mocha": "^11.7.1"
-  }
+  },
+  "description": ""
 }
